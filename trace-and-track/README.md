@@ -1,4 +1,4 @@
-# Trace and Track Product
+# Trace and Track Product [Client-side Under Development]
 
 ## Description
 This are the core of Trace and Track project. This project focuses on bring transaparency in the worl of manufaturing along with logistics of the products.
